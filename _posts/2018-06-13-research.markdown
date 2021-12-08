@@ -11,6 +11,15 @@ tags: [jekyll]
 <h3 id="working-papers">Working Papers</h3>
 
 <ul>
+  <h4><b>Monetary Policy with Near-Rational Expectations in Open Economies</b>
+(<a href="https://s-anurag.github.io/files/JNS_Robust_rev_Nov.pdf" target="_blank"><em>Paper</em></a>)</h4>
+<details><summary>Abstract:</summary><p><font size="2">We investigate robustly optimal monetary policy in an open economy where private agents’ expectations are boundedly rational. The theoretical framework incorporates policymakers’ concerns regarding potentially distorted private expectations into a standard small open economy New Keynesian environment. The model predicts that following a cost-push shock, the optimal monetary policy calls for a slower response of domestic inflation and greater reaction in the initial response of the nominal exchange rate, as the central bank’s concerns about distorted expectations increase. We develop an algorithm to implement Bayesian inference using macroeconomic time series on Canada and Mexico and estimate the degree of distorted expectations from the rational expectations (RE) benchmark. Mexico exhibits a significant deviation from RE, whereas Canada shows a small deviation. The model with distorted expectations substantially outperforms the RE model for Mexico. It successfully predicts the historical path of the monetary policy rate and the high persistence of the inflation rate, demonstrating that robustly optimal monetary policy causes inertia in the inflation rate.</font></p></details>
+
+</ul>
+
+
+
+<ul>
   <h4><b>Clustered Sovereign Default</b>
 (<a href="https://s-anurag.github.io/files/ClusteredSovereignDefault.pdf" target="_blank"><em>Paper</em></a>)(<a href="https://s-anurag.github.io/files/OnlineAppendix-ClusteredSovereignDefault.pdf" target="_blank"><em>Online Appendix</em></a>)(<a href="https://s-anurag.github.io/files/JMP_Slides.pdf" target="_blank"><em>Slides</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">Clustered sovereign defaults are a recurring phenomenon. In order to understand the nature of shocks and the mechanism through which these shocks lead countries to clustered defaults, the paper starts with a joint estimation of the structural parameters driving the output process of 24 defaulting countries and a process for the world interest rate. The postulated output process includes transitory and permanent global components as well as transitory and permanent country-specific components. The paper then builds a sovereign default model augmented with financial frictions at the firm level. In spite of the fact that the shocks are estimated independently of the model or of default data, once fed into the model, they reproduce the clustered default of 1982, providing a joint validation of the model and the estimated driving forces. The model predicts that it is the global shocks to the transitory component of output that are most important in leading countries to default in clusters. Contrary to what is commonly believed, the Volcker interest-rate hike was not a determinant factor of the 1982 developing country debt crisis.</font></p></details>
@@ -36,9 +45,6 @@ tags: [jekyll]
 
 
 <h3 id="work-in-progress">Work in Progress</h3>
-<ul>
-  <h4><b>A Robust Exchange Rate Policy under Near-Rational UIP Breakdown</b>, (with Yang Jiao and Seunghoon Na)</h4>
-</ul>
 
 <ul>
   <h4><b>Solving the Deflation Problem: A Microfounded Neo-Fisher Effect</b>, (with Haaris Mateen)</h4>
