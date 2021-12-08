@@ -11,7 +11,7 @@ tags: [jekyll]
 <h3 id="working-papers">Working Papers</h3>
 
 <ul>
-  <h4><b>Monetary Policy with Near-Rational Expectations in Open Economies</b>
+  <h4><b>Monetary Policy with Near-Rational Expectations in Open Economies, (with Yang Jiao and Seunghoon Na)</b>
 (<a href="https://s-anurag.github.io/files/JNS_Robust_rev_Nov.pdf" target="_blank"><em>Paper</em></a>)</h4>
 <details><summary>Abstract:</summary><p><font size="2">We investigate robustly optimal monetary policy in an open economy where private agents’ expectations are boundedly rational. The theoretical framework incorporates policymakers’ concerns regarding potentially distorted private expectations into a standard small open economy New Keynesian environment. The model predicts that following a cost-push shock, the optimal monetary policy calls for a slower response of domestic inflation and greater reaction in the initial response of the nominal exchange rate, as the central bank’s concerns about distorted expectations increase. We develop an algorithm to implement Bayesian inference using macroeconomic time series on Canada and Mexico and estimate the degree of distorted expectations from the rational expectations (RE) benchmark. Mexico exhibits a significant deviation from RE, whereas Canada shows a small deviation. The model with distorted expectations substantially outperforms the RE model for Mexico. It successfully predicts the historical path of the monetary policy rate and the high persistence of the inflation rate, demonstrating that robustly optimal monetary policy causes inertia in the inflation rate.</font></p></details>
 
