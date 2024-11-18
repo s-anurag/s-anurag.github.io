@@ -56,6 +56,11 @@ tags: [jekyll]
 <h3 id="work-in-progress">Work in Progress</h3>
 
 <ul>
+  <h4><b>Expectations, Sovereign Debt, and Country Spreads in Emerging Economies</b>, (with Seunghoon Na and Tiago Tavares)</h4>
+</ul>
+
+
+<ul>
   <h4><b>Capital Flows, Asset Price Ambiguity, and Optimal Monetary Policy</b>, (with Seunghoon Na)</h4>
 </ul>
 
