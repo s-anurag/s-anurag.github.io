@@ -14,8 +14,8 @@ tags: [jekyll]
 
 <h3 id="IIT Kanpur, Guest Faculty"><b>IIT Kanpur, Guest Faculty</b></h3>
 <ul>
-  <li>Global Economy and International Finance (Masters) &middot</li>
-  <li>Applied Macroeconomics (Masters) &middot</li>
+  <li>Global Economy and International Finance (Masters)</li>
+  <li>Applied Macroeconomics (Masters)</li>
 </ul>
 
 
