@@ -6,8 +6,19 @@ tags: [jekyll]
 
 <h3 id="ITAM"><b>ITAM</b></h3>
 <ul>
+  <li>Introduction to Finance and Financial Intermediation (Undergraduate) &middot; <em>Fall 2026 onward</em></li>
+  <li>International Financial Markets and Institutions (Masters) &middot; <em>Spring 2026 onward</em></li>
   <li>Financial Markets and Institutions (Undergraduate) &middot; <em>Fall 2019 onward</em></li>
 </ul>
+
+
+<h3 id="IIT Kanpur, Guest Faculty"><b>IIT Kanpur, Guest Faculty</b></h3>
+<ul>
+  <li>Global Economy and International Finance (Masters) &middot</li>
+  <li>Applied Macroeconomics (Masters) &middot</li>
+</ul>
+
+
 
 <h3 id="columbia-university"><b>Columbia University</b></h3>
 <ul>
