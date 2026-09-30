@@ -10,8 +10,30 @@ tags: [jekyll]
 
 <h3 id="published-papers">Published Papers</h3>
 
+
+
+
 <ul>
-  <h4><a href="https://authors.elsevier.com/a/1jgS85330i%7ERi" target="_blank"><b>Clustered Sovereign Default</b></a>
+  <h4><b>Monetary Policy under Uncertain Expectations in an Emerging Economy, (with Yang Jiao and Seunghoon Na)</b>
+(<a href="https://s-anurag.github.io/files/mp_uncertain_expectation_EME.pdf" target="_blank"><em>Paper</em></a>). <em>Forthcoming, IMF Economic Review.</em></h4>
+<details><summary>Abstract:</summary><p><font size="2">Monetary policy reforms in emerging market economies are often shaped by histories of high inflation, which give rise to persistent concerns about the anchoring of private-sector expectations. Against this background, we embed near-rational expectations (NRE) into a small open economy New Keynesian model and characterize robustly optimal monetary policy when the central bank faces Knightian uncertainty about private-sector belief distortions. Applying the framework to Mexico’s post–Peso Crisis monetary policy reforms during 1998–2007, we estimate both NRE and rational-expectations (RE) versions of the model. The estimated NRE model implies a substantial concern for robustness and decisively outperforms RE alternatives in tracking the policy rate, which is not used in the estimation. The robust policy rule alone does not deliver this: with the same rule but rational private agents, the model fails on the policy rate. The identification is an open-economy phenomenon: re-estimated as a closed economy, the NRE model collapses to its RE counterpart. The concern for robustness leads the central bank to stabilize domestic inflation more aggressively while tolerating larger nominal exchange rate adjustments, and it generates endogenous history dependence, producing persistent inflation dynamics even in the absence of backward-looking price setting.</font></p></details>
+
+</ul>
+
+
+
+
+<ul>
+  <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020698" target="_blank"><b>Financially Constrained Households and Consumption Volatility in Open Economies, (with Tiago Tavares)</b>
+(<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020698" target="_blank"><em>Paper</em></a>). <em>Forthcoming, IMF Economic Review.</em></h4>
+<details><summary>Abstract:</summary><p><font size="2">Emerging market economies often exhibit aggregate consumption that is more volatile than output, contrary to the consumption-smoothing prediction of standard macroeconomic models. This paper shows that heterogeneity in access to financial services can generate this excess volatility in a small open economy model driven by transitory productivity shocks alone. The mechanism is an unconstrained-amplification channel: as capital income is concentrated among fewer unconstrained households, their consumption unwinds more slowly after transitory shocks, raising its volatility relative to output. Procyclical firm entry provides a secondary amplification layer by strengthening the labor-income channel for hand-to-mouth households, but it is not the primary source of the result. Estimating the full model on macroeconomic data for 10 advanced, 17 emerging, and 11 low-income economies, we recover hand-to-mouth shares that rise with lower levels of development and align closely with independent microdata on financial access.</font></p></details>
+
+</ul>
+
+
+
+<ul>
+  <h4><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022199624001260" target="_blank"><b>Clustered Sovereign Default</b></a>
 (<a href="https://s-anurag.github.io/files/ClusteredSovereignDefault_V-JIE_Accept.pdf" target="_blank"><em>Paper</em></a>)(<a href="https://s-anurag.github.io/files/JMP_Slides.pdf" target="_blank"><em>Slides</em></a>). <em>Journal of International Economics (2024): 103999, Vol. 152.</em></h4>
 <details><summary>Abstract:</summary><p><font size="2">Clustered sovereign defaults are a recurring phenomenon. In order to understand the nature of shocks and the mechanism through which these shocks lead countries to clustered defaults, the paper starts with a joint estimation of the structural parameters driving the output process of 24 defaulting countries and a process for the world interest rate. The postulated output process includes transitory and permanent global components as well as transitory and permanent country-specific components. The paper then builds a sovereign default model augmented with financial frictions at the firm level. In spite of the fact that the shocks are estimated independently of the model or of default data, once fed into the model, they reproduce the clustered default of 1982, providing a joint validation of the model and the estimated driving forces. The model predicts that it is the global shocks to the transitory component of output that are most important in leading countries to default in clusters. Contrary to what is commonly believed, the Volcker interest-rate hike was not a determinant factor of the 1982 developing country debt crisis.</font></p></details>
 
@@ -23,51 +45,20 @@ tags: [jekyll]
 
 
 
-<ul>
-  <h4><b>Monetary Policy under Uncertain Expectations in an Emerging Economy, (with Yang Jiao and Seunghoon Na)</b>
-(<a href="https://s-anurag.github.io/files/mp_uncertain_expectation_EME.pdf" target="_blank"><em>Paper</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Monetary policy reforms in emerging market economies are often shaped by histories of high inflation, which give rise to persistent concerns about the anchoring of private-sector expectations. Against this background, we study optimal monetary policy under Knightian uncertainty about private-sector expectations. We embed near-rational expectations (NRE) into a small open economy New Keynesian model and characterize robustly optimal monetary policy when the central bank is uncertain about private-sector belief distortions. Applying the framework to Mexico’s post–Peso Crisis monetary policy reforms during 1998-2007, we estimate both NRE and rational-expectations (RE) versions of the model. The estimated NRE model implies a substantial concern for robustness and substantially outperforms the RE benchmark in predicting actual monetary policy behavior during this period. Concern for robustness reshapes policy responses, leading the central bank to adopt a more aggressive stance toward stabilizing domestic inflation while tolerating larger adjustments in the nominal exchange rate. At the same time, monetary policy exhibits endogenous history dependence and generates persistent inflation dynamics even in the absence of backward-looking price setting.</font></p></details>
 
+
+<ul>
+  <h4><b>Overreactions, Debt Accumulations, and Sovereign Crises</b>, (with Seunghoon Na and Tiago Tavares)</h4>
 </ul>
 
 
 
 
 
-<ul>
-  <h4><b>Financially Constrained Households and Consumption Volatility in Small Open Economies, (with Tiago Tavares)</b>
-(<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020698" target="_blank"><em>Paper</em></a>)</h4>
-<details><summary>Abstract:</summary><p><font size="2">Emerging market economies often exhibit aggregate consumption that is more volatile than aggregate income, contrary to predictions of standard macro models that are based on consumption smoothing through financial markets under transitory productivity shocks. This paper explores whether heterogeneity in access to financial services can explain this excess consumption volatility. To this end, we extend the standard SOE-RBC model by incorporating both hand-to-mouth and unconstrained households, alongside procyclical firm entry dynamics. Calibrated to capture emerging market features, the model successfully generates greater aggregate consumption volatility compared to aggregate income even when the only source of fluctuations is a transitory productivity shock. Using this framework, we conduct a Bayesian estimation on macroeconomic data for 12 advanced, 19 emerging, and 11 low-income economies. This comprehensive estimation delivers the macro-data consistent fraction of hand-tomouth households in each country, which aligns closely with the micro-data. Moreover, the results underscore the significance of transitory TFP shocks, even when compared with permanent TFP shocks and interest rate fluctuations.</font></p></details>
-
-</ul>
 
 
 
-<ul>
-  <h4><b>Creditor Rights During a Financial Crisis</b>, (with Sudip Gupta and Krishnamurthy Subramanian)</h4>
-<!--- (<a href="{{ site.baseurl }}/files/Paper3.pdf" target="_blank"><em>Draft</em></a>) -->
-<details><summary>Abstract:</summary><p><font size="2">Optimal debt contracts seek to balance ex-post control rights allocated to creditors against borrowers' need to secure financing ex-ante. Post a financial crisis that is accompanied by a recession, the likelihood of ex-post adverse outcomes increases while ex-ante financing opportunities dry up. What is the effect of this interplay on the control rights assumed by creditors during a financial crisis? We study this question by comparing covenants in bank loans issued before and after the financial crisis of 2008. We find that post the crisis: (i) covenants requiring provision of liquidity and those restricting leverage in the capital structure were more likely; (ii) covenants restricting capital expenditures and those related to borrower performance were less likely; and (iii) using difference-in-difference tests, we find that these differences were disproportionately more pronounced for loans taken for financial restructuring but not for other loans. We argue that post the financial crisis, loan contracts responded primarily to heightened risks of debt-equity conflicts stemming from asset substitution, illiquidity transformation and debt overhang. Finally, these differences in covenants have real effects by affecting the capital expenditures of firms. To our knowledge, ours is the first study to examine the effects of a financial crisis on creditor rights outside bankruptcy. Our study highlights another channel -- creditor rights outside bankruptcy -- through which the real effects of a financial crisis permeate through the economy.</font></p></details>
 
-
-</ul>
-
-
-
-<h3 id="work-in-progress">Work in Progress</h3>
-
-<ul>
-  <h4><b>Expectations, Sovereign Debt, and Country Spreads in Emerging Economies</b>, (with Seunghoon Na and Tiago Tavares)</h4>
-</ul>
-
-
-<ul>
-  <h4><b>Capital Flows, Asset Price Ambiguity, and Optimal Monetary Policy</b>, (with Seunghoon Na)</h4>
-</ul>
-
-
-<ul>
-  <h4><b>Solving the Deflation Problem: A Microfounded Neo-Fisher Effect</b>, (with Haaris Mateen)</h4>
-</ul>
 
 
 <!---  Why some countries load more on global factors. Some graphs to correlate alphas with economic fundamentals -->
