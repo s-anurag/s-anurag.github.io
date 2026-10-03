@@ -24,8 +24,8 @@ tags: [jekyll]
 
 
 <ul>
-  <h4><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020698" target="_blank"><b>Financially Constrained Households and Consumption Volatility in Open Economies, (with Tiago Tavares)</b></a>
-(<a href="https://s-anurag.github.io/files/Singh and Tavares_V-IMFER-Accept.pdf" target="_blank"><em>Paper</em></a>). <em>Forthcoming, IMF Economic Review.</em></h4>
+  <h4><a href="https://link.springer.com/article/10.1057/s41308-026-00333-1" target="_blank"><b>Financially Constrained Households and Consumption Volatility in Open Economies, (with Tiago Tavares)</b></a>
+(<a href="https://s-anurag.github.io/files/Singh and Tavares_V-IMFER-Accept.pdf" target="_blank"><em>Paper</em></a>). <em>IMF Economic Review (2026)</em></h4>
 <details><summary>Abstract:</summary><p><font size="2">Emerging market economies often exhibit aggregate consumption that is more volatile than output, contrary to the consumption-smoothing prediction of standard macroeconomic models. This paper shows that heterogeneity in access to financial services can generate this excess volatility in a small open economy model driven by transitory productivity shocks alone. The mechanism is an unconstrained-amplification channel: as capital income is concentrated among fewer unconstrained households, their consumption unwinds more slowly after transitory shocks, raising its volatility relative to output. Procyclical firm entry provides a secondary amplification layer by strengthening the labor-income channel for hand-to-mouth households, but it is not the primary source of the result. Estimating the full model on macroeconomic data for 10 advanced, 17 emerging, and 11 low-income economies, we recover hand-to-mouth shares that rise with lower levels of development and align closely with independent microdata on financial access.</font></p></details>
 
 </ul>
